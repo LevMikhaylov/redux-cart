@@ -1,0 +1,14 @@
+.App {
+    text-align: center;
+    font-family: 'Times New Roman';
+    margin: 40px;
+  }
+  
+  button {
+    margin: 0 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+ul li{
+  list-style: none;
+}
